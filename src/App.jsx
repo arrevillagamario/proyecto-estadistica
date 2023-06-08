@@ -92,7 +92,6 @@ function App() {
               <TableCell>X-X̅</TableCell>
               <TableCell>Y-Ȳ</TableCell>
               <TableCell>(X-X̅)(Y-Ȳ)</TableCell>
-              <TableCell>-</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
@@ -113,9 +112,6 @@ function App() {
                 
               )
             })}
-            <TableRow>
-              <TableCell>suma</TableCell>
-            </TableRow>
           </TableBody>
         </Table>
       </TableContainer>
